@@ -53,6 +53,21 @@ To add a new server, click on “Add New Server” button.
 
 ![](./IMAGES/image_2.png)
 
+## Register New Server
 
+Set name as *localhost*.
 
+![](./IMAGES/image_5.png)
+
+## Set Connection to Server
+
+![](./IMAGES/image_55.png)
+
+- Set hostname as *localhost*
+- Set port as *5432*
+- Set database as *gessit*
+- Set username as *fact12*
+- Set password as *admin123*
+
+Finally click *Save*
 
